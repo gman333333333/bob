@@ -83,8 +83,12 @@ flash54 = 40x escape
 
 flash55 = bloxors 
 
-flash56 = diggy
+flash56 = Gravitex 2
 
 flash57 = civiballs 1
 
-flash 58 = civiballs 2
+flash58 = civiballs 2
+
+flash59 = Diggy
+
+flash60 = strike force heros
