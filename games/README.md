@@ -92,3 +92,5 @@ flash58 = civiballs 2
 flash59 = Diggy
 
 flash60 = strike force heros
+
+flash61 = sugar, sugar
