@@ -96,3 +96,5 @@ flash60 = strike force heros
 flash61 = sugar, sugar
 
 flash62 = sugar, sugar 2
+
+flash63 = pokemon red embed
