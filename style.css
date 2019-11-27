@@ -190,3 +190,11 @@ p.papa {
   left: 50%;
   transform: translate(-50%, -50%);
 }
+
+p.subheader {
+  text-align: center;
+  color:white;
+  font-family:arial;
+  font-size: 20px;
+}
+
