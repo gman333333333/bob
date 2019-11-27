@@ -97,4 +97,6 @@ flash61 = sugar, sugar
 
 flash62 = sugar, sugar 2
 
-flash63 = pokemon red embed
+flash63 = pokemon red desktop
+
+flash64 = pokemon red chromebook
