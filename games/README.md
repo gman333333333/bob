@@ -106,3 +106,5 @@ flash65 = pokemon ruby desktop
 flash66 = pokemon ruby chromebook
 
 flash67 = pokemon emerald desktop
+
+flash68 = pokemon emerald chromebook
