@@ -100,3 +100,7 @@ flash62 = sugar, sugar 2
 flash63 = pokemon red desktop
 
 flash64 = pokemon red chromebook
+
+flash65 = pokemon ruby desktop
+
+flash66 = pokemon ruby chromebook
