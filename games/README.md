@@ -108,3 +108,5 @@ flash66 = pokemon ruby chromebook
 flash67 = pokemon emerald desktop
 
 flash68 = pokemon emerald chromebook
+
+flash69 = duck life 1
