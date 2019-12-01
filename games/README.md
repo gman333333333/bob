@@ -104,3 +104,5 @@ flash64 = pokemon red chromebook
 flash65 = pokemon ruby desktop
 
 flash66 = pokemon ruby chromebook
+
+flash67 = pokemon emerald desktop
