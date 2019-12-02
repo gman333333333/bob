@@ -47,25 +47,25 @@ flash36 = Mutilate a doll
 
 flash37 = Doom
 
-flash38 = ageofwar.swf	
+flash38 = age of war	
 
-flash39 = SMflash.swf
+flash39 = SM flash
 	
-flash40 = happywheels.swf	
+flash40 = happywheels	
 
-flash41 = feudalism2.swf	
+flash41 = feudalism 2	
 
-flash42 = fallout.swf	
+flash42 = fallout
 
 flash43 = Tank Trouble		
 
-flash44 = getout.swf	
+flash44 = getout	
 
-flash45 = FPadventures.swf	
+flash45 = FP adventures	
 
-flash46 = duckhunt.swf
+flash46 = duck hunt
 
-flash47 = motoX3M.swf
+flash47 = moto X3M 3
 
 flash48 = Coreball (html5)
 
