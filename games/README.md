@@ -112,3 +112,5 @@ flash68 = pokemon emerald chromebook
 flash69 = duck life 1
 
 flash70 = duck life 2
+
+flash71 = oregon trail desktop
